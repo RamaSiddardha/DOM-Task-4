@@ -7,6 +7,8 @@ items[3].style.fontWeight='bold'
 
 const li=document.getElementsByTagName('li')
 li[4].style.backgroundColor='gray'
+li[1].style.backgroundColor='green'
+li[2].style.display='none'
 const list=document.getElementsByClassName('tem')
 console.log(list)
 list[0].style.color='red'
